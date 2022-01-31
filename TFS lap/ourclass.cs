@@ -8,5 +8,6 @@ namespace TFS_lap
 {
     internal class ourclass
     {
+        public string Name { set; get; }
     }
 }
