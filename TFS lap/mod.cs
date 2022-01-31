@@ -9,5 +9,6 @@ namespace TFS_lap
     internal class mod
     {
         public int id;
+        public int nd;
     }
 }
